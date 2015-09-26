@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[
+// -- + ${0:xxx} + -------------
+]]></content>
+  <tabTrigger>comment3-slash</tabTrigger>
+</snippet>
