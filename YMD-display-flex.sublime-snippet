@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+@include display(flex);
+@include justify-content(flex-start);
+@include align-items(flex-start);
+@include flex-direction(row);
+]]></content>
+  <tabTrigger>display-flex</tabTrigger>
+</snippet>
+
