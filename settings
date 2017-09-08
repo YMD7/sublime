@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"tab_size": 2,
+	"theme": "itg.flat.dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": false,
+	"vintage_start_in_command_mode": false
+}
+
