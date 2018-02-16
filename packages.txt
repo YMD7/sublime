@@ -1,0 +1,28 @@
+# ~/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings
+
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "All Autocomplete",
+        "Babel",
+        "Babel Snippets",
+        "Baobab React ES6 Snippets",
+        "Dimmed Color Scheme",
+        "Emmet",
+        "JavaScript Snippets",
+        "Meteor Snippets",
+        "Package Control",
+        "React ES6 Snippets",
+        "ReactJS",
+        "ReactJS Snippets",
+        "Ruby Slim",
+        "SCSS",
+        "Six - Future JavaScript Syntax",
+        "SublimeLinter-contrib-slim-lint",
+        "Theme - itg.flat"
+    ]
+}
